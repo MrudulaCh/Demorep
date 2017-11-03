@@ -21,6 +21,6 @@ class Bigest {
             System.out.print (temp + "\t");
         }
         System.out.println ("End method");
-        System.out.println ("Sorting Algorithms");
+        System.out.println ("Sorting Algorithms testing");
     }
 }
