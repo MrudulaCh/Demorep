@@ -6,7 +6,7 @@ class Bigest {
     public static void main (String[] args) {
         Scanner input = new Scanner (System.in);
 
-        System.out.println ("how many number you want to put in the pot?");
+        System.out.println ("how many numbers do you want to put in the pot?");
         int num = input.nextInt();
         int numbers[] = new int[num];
 
