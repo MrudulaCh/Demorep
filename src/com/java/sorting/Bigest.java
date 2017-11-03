@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 class Bigest {
     public static void main (String[] args) {
+        System.out.println ("Begin method");
+
         Scanner input = new Scanner (System.in);
 
         System.out.println ("how many numbers do you want to put in the pot?");
